@@ -28,7 +28,7 @@ DEBUG = True
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
-ALLOWED_HOSTS = ['localhost', 'irfanpets.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'irfanpetapp.herokuapp.com']
 
 
 # Application definition
