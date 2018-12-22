@@ -7,6 +7,7 @@ Web Application for Users and Pets. Users and Pets API endpoints done with Djang
 
 ## Installation
 Tip:  Your folder structure should look like this:
+
     * petapp
     * v
 
